@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'sql.tirtagt.xyz',
-	'username' => 'JonathaniTi',
-	'password' => 'Kusanali_Nahida27',
-	'database' => 'JonathaniTi_siskkm',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => 'root',
+	'database' => 'siskkm',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => TRUE,
@@ -88,10 +88,6 @@ $db['default'] = array(
 	'char_set' => 'utf8',
 	'dbcollat' => 'utf8_general_ci',
 	'swap_pre' => '',
-	'encrypt' => array(
-		'ssl_ca' => '/etc/ssl/certs/ISRG_Root_X1.pem',
-		'ssl_verify' => TRUE
-	),
 	'compress' => FALSE,
 	'stricton' => FALSE,
 	'failover' => array(),
