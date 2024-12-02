@@ -18,6 +18,9 @@ Berikut teknologi yang digunakan pada sistem ini: <br>
 4. Gravatar (Profile User) <br>
 5. Database: MariaDB <br>
 
+## Akun User
+<a href="https://docs.google.com/spreadsheets/d/1t78o1KQqq_gXtt0_iBsnOobuf8HXL1qo2O4yE0lWV8M/edit?gid=0#gid=0">Click For User Account</a>
+
 ## Ketentuan
 Pengujian sistem dilakukan pada browser Google Chrome versi 50 ke atas <br>
 Source code dan database bersifat open source. Jika ingin melanjutkan pengembangan sistem ini harap mencantumkan hak cipta developer. <br>
