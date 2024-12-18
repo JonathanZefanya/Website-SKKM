@@ -19,7 +19,7 @@ Berikut teknologi yang digunakan pada sistem ini: <br>
 5. Database: MariaDB <br>
 
 ## Cara Menjalankan Project Ini
-```cd xampp/htdocs/Website-SKKM/```
+```cd xampp/htdocs/Website-SKKM/``` <br>
 ```php -S localhost:8000```
 
 ## Akun User
