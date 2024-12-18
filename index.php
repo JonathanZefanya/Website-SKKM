@@ -1,7 +1,7 @@
 <?php
 
-// $_SERVER["REQUEST_URI"] = str_replace("/skkm", "", $_SERVER["REQUEST_URI"]);
-$_SERVER["REQUEST_URI"] = substr($_SERVER["REQUEST_URI"], 5);
+$_SERVER["REQUEST_URI"] = str_replace("/skkm", "", $_SERVER["REQUEST_URI"]);
+// $_SERVER["REQUEST_URI"] = substr($_SERVER["REQUEST_URI"], 5);
 
 /**
  * CodeIgniter
