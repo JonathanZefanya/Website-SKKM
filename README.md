@@ -18,6 +18,10 @@ Berikut teknologi yang digunakan pada sistem ini: <br>
 4. Gravatar (Profile User) <br>
 5. Database: MariaDB <br>
 
+## Cara Menjalankan Project Ini
+```cd xampp/htdocs/Website-SKKM/```
+```php -S localhost:8000```
+
 ## Akun User
 <a href="https://docs.google.com/spreadsheets/d/1t78o1KQqq_gXtt0_iBsnOobuf8HXL1qo2O4yE0lWV8M/edit?gid=0#gid=0">Click For User Account</a>
 

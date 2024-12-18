@@ -23,9 +23,16 @@ date_default_timezone_set('Asia/Jakarta');
 | a PHP script and you can easily do that on your own.
 |
 */
+
+// Server
+// $config['base_url'] = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on") ? "https" : "http");
+// $config['base_url'] .= "://jojo.tirtagt.xyz/skkm/";
+
+
+// Localhost
 $config['base_url'] = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on") ? "https" : "http");
-$config['base_url'] .= "://jojo.tirtagt.xyz/skkm/";
-// $config['base_url'] .= str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME']);
+$config['base_url'] .= "://".$_SERVER['HTTP_HOST'];
+$config['base_url'] .= str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME']);
 
 /*
 |--------------------------------------------------------------------------
@@ -285,7 +292,12 @@ $config['error_views_path'] = '';
 | application/cache/ directory.  Use a full server path with trailing slash.
 |
 */
-$config['cache_path'] = '/home/jonathanzefanya/jojo.tirtagt.xyz/skkm/application/cache';
+
+// Server
+// $config['cache_path'] = '/home/jonathanzefanya/jojo.tirtagt.xyz/skkm/application/cache';
+
+// Localhost
+$config['cache_path'] = '';
 
 /*
 |--------------------------------------------------------------------------
