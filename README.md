@@ -17,11 +17,11 @@ SKKM merupakan kepanjangan dari **Satuan Kredit Kegiatan Mahasiswa** di **Instit
 ## 🛠 Teknologi yang Digunakan
 Berikut adalah teknologi yang digunakan dalam sistem ini:
 
-🚀 **Backend**: CodeIgniter 3.x
-🎨 **Frontend**: AdminLTE 2.3.0 (Modul Admin, Mahasiswa, PKA) & Solid Theme (Homepage SKKM)
-🔐 **Authentication**: CodeIgniter Ion-Auth
-👤 **Profile User**: Gravatar
-🗄 **Database**: MariaDB
+🚀 **Backend**: CodeIgniter 3.x <br>
+🎨 **Frontend**: AdminLTE 2.3.0 (Modul Admin, Mahasiswa, PKA) & Solid Theme (Homepage SKKM) <br>
+🔐 **Authentication**: CodeIgniter Ion-Auth <br>
+👤 **Profile User**: Gravatar <br>
+🗄 **Database**: MariaDB/MySQL <br>
 
 ---
 
