@@ -26,7 +26,7 @@ date_default_timezone_set('Asia/Jakarta');
 
 // Server
 // $config['base_url'] = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on") ? "https" : "http");
-// $config['base_url'] .= "://jojo.tirtagt.xyz/skkm/";
+// $config['base_url'] .= "://xead.my.id/skkm/";
 
 
 // Localhost
@@ -294,10 +294,10 @@ $config['error_views_path'] = '';
 */
 
 // Server
-// $config['cache_path'] = '/home/jonathanzefanya/jojo.tirtagt.xyz/skkm/application/cache';
+// $config['cache_path'] = '/home/jonathanzefanya/xead.my.id/skkm/application/cache';
 
 // Localhost
-$config['cache_path'] = '';
+$config['cache_path'] = '../application/cache';
 
 /*
 |--------------------------------------------------------------------------

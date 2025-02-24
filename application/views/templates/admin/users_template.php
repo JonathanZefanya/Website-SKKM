@@ -154,7 +154,7 @@
         <div class="pull-right hidden-xs">
             <b>Version</b> 2.0.0
         </div>
-        <strong>Copyright <a href="https://jojo.tirtagt.xyz">Kelompok NoirDev</a>.</strong> All rights
+        <strong>Copyright <a href="https://xead.my.id">Kelompok NoirDev</a>.</strong> All rights
         reserved.
     </footer>
 
